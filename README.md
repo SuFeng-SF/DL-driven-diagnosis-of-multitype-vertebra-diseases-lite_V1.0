@@ -9,3 +9,6 @@ Osteoporotic vertebral compression fractures (OVCFs) are the most common type of
 ## Run
 1) Run main_vertebraDetection.mlx in folder vertebra-detection-lite.
 2) Run main_vertebraClassifiction.mlx in floder vertebra-multitype-disease-classification-lite.
+***Load developed models from Baidu disk first***
+interlinkage: 
+Entercode: 
